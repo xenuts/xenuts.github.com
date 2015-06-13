@@ -1,0 +1,40 @@
+#+TITLE: Publications
+#+STARTUP: hidestars
+#+TIMESTAMP: <2015-06-09 17:30:16 by xenuts>
+
+#+INCLUDE: "sidebar.org"
+
+* 
+** 2015
+   #+ATTR_HTML: :border nil :rules nil :frame nil
+   | ✔ | *Xiangzeng Zhou*, Lei Xie, and Peng Zhang. Online object tracking based on cnn with metropolis-hasting re-sampling. In /ACM Multimedia (ACMMM)/, Brisbane, Australia, 2015 (/submitted/). |
+   | ✔ | *Xiangzeng Zhou*, Lei Xie, Qiang Huang, and Stephen J. Cox. Tennis ball tracking using a two-layered data association approach. /IEEE Transactions on Multimedia (TMM)/, 2015.            |
+   |   | [ [[https://www.researchgate.net/profile/Xiangzeng_Zhou/publication/272956694_Tennis_Ball_Tracking_using_A_Two-Layered_Data_Association_Approach/links/557bf8b908aeea18b7752f0c.pdf?disableCoverPage=true][PDF]] ] [ [[http://xenuts.com/file/bibtex/Zhou-2015-Tennis.bib][BibTeX]] ]                                                                                                                                                                        |
+
+** 2014
+   #+ATTR_HTML: :border nil :rules nil :frame nil
+   | ✔ | *Xiangzeng Zhou*, Lei Xie, Peng Zhang, and Yanning Zhang. An Ensemble of Deep Neural Networks for Object Tracking. In /IEEE International Conference on Image Processing (ICIP)/, Paris, France, 2014.                                                                      |
+   |   | [ [[http://www.researchgate.net/profile/Xiangzeng_Zhou/publication/265294083_An_Ensemble_of_Deep_Neural_Networks_for_Object_Tracking/links/54658ec30cf2f5eb17ff3e06.pdf?disableCoverPage=true][PDF]] ] [ [[http://xenuts.com/file/bibtex/Zhou-2014-An.bib][BibTeX]] ] [ [[https://www.researchgate.net/profile/Xiangzeng_Zhou/publication/278132406_ICIP2014-OralPresentation-Slide/links/557c1d9a08aeb61eae235ff0.pdf][Slide]] ] [Code]                                                                                                                                                                                                                                               |
+   | ✔ | Chao Yang, Lei Xie and *Xiangzeng Zhou*. Unsupervised Broadcast News Story Segmentation Using Distance Dependent Chinese Restaurant Processes. /The 39th International Conference on Acoustics, Speech, and Signal Processing (ICASSP'14)/, May 4-9, 2014, Florence, Italy. |
+   |   | [ [[https://www.researchgate.net/profile/Lei_Xie7/publication/271481540_Unsupervised_broadcast_news_story_segmentation_using_distance_dependent_Chinese_restaurant_processes/links/54db1f7a0cf261ce15cf3700.pdf][PDF]] ] [ [[http://xenuts.com/file/bibtex/Yang-2014-Unsupervised.bib][BibTeX]] ]                                                                                                                                                                                                                                                             |
+
+** 2013
+   #+ATTR_HTML: :border nil :rules nil :frame nil
+   | ✔ | *Xiangzeng Zhou*, Qiang Huang, Lei Xie, and Stephen J. Cox. A two layered data association approach for ball tracking. In /IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)/, Vancouver, Canada, 2013. |
+   |   | [ [[https://www.researchgate.net/profile/Stephen_Cox4/publication/261314782_A_two_layered_data_association_approach_for_ball_tracking/links/540db07f0cf2df04e7564ea7.pdf][PDF]] ] [ [[http://xenuts.com/file/bibtex/Zhou-2013-A.bib][BibTeX]] ] [ [[https://www.researchgate.net/profile/Xiangzeng_Zhou/publication/278130604_poster-ICASSP2013_xzzhou_V1.0/links/557c1c1208aeea18b7768e8c.pdf][Poster]] ]                                                                                                                                                                                                                                                                                                                               |
+
+** 2012
+   #+ATTR_HTML: :border nil :rules nil :frame nil
+   | ✔ | Qiang Huang, Stephen J. Cox, *Xiangzeng Zhou*, and Lei Xie. Detection of ball hits in a tennis game using audio and visual information. In /IEEE Asia-Pacific Signal Information Processing Association Annual Summit and Conference (APSIPA ASC)/, pages 1–10, Hollywood, California, 2012. |
+   |   | [ [[https://www.researchgate.net/profile/Stephen_Cox4/publication/261119682_Detection_of_ball_hits_in_a_tennis_game_using_audio_and_visual_information/links/540db10a0cf2f2b29a39fd0f.pdf][PDF]] ] [ [[http://xenuts.com/file/bibtex/Huang-2012-Detection.bib][BibTeX]] ]                                                                                                                                                                                                                                                                                |
+
+** 2011
+   #+ATTR_HTML: :border nil :rules nil :frame nil
+   | ✔ | Bingfeng Li, Lei Xie, *Xiangzeng Zhou*, Zhonghua Fu, and Yanning Zhang. Real-time speech-driven virtual avatar. In National Conference on Man-Machine Speech Communication (NCMMSC), Xi’an, China, 2011.                                                              |
+   | ✔ | Jianwei Niu, Lei Xie, Xiaoming Lu, *Xiangzeng Zhou*, and Yanning Zhang. Multi-confidence feature integration for utterance rejection in robust speech recognition. In /National Conference on Man-Machine Speech Communication (NCMMSC)/, page 4, Xi’an, China, 2011. |
+
+** 2010
+   #+ATTR_HTML: :border nil :rules nil :frame nil
+   | ✔ | Lei Xie, Wenhuai Zhao, *Xiangzeng Zhou*, Xiaohai Tian, Bingfeng Li, Naicai Sun, Yali Zhao, and Yanning Zhang. Speech and auditory interfaces for ubiquitous, immersive and personalized applications. In /Immersive and Personalized Applications, Ubiquitous Intelligence Computing and the 7th International Conference on Autonomic Trusted Computing (UIC/ATC)/, Xi’an, China, 2010. |
+   |   | [ [[https://www.researchgate.net/profile/Xiangzeng_Zhou/publication/224205215_Speech_and_Auditory_Interfaces_for_Ubiquitous_Immersive_and_Personalized_Applications/links/557c1a9e08aeea18b7768e78.pdf][PDF]] ] [ [[http://xenuts.com/file/bibtex/Xie-2010-Speech.bib][BibTeX]] ]                                                                                                                                                                                                                                                                                                                                                                       |
+

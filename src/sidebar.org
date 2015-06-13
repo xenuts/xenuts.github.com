@@ -1,0 +1,18 @@
+#+OPTIONS: toc:nil num:nil
+#+HTML_HEAD: <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
+#+HTML_HEAD: <link rel="stylesheet" href="css/simple-sidebar.css" type="text/css">
+#+HTML_HEAD: <link href="favicon.ico" rel="icon">
+
+#+BEGIN_HTML
+  <div id="sidebar-wrapper">
+    <ul class="sidebar-nav nav text-center">
+      <li><div><a href="/">
+            <img class="img-circle" src="img/logo.png" alt="LOGO" height="180" width="180">
+      </a></div></li>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="projects.html">Projects</a></li>
+      <li><a href="publications.html">Publications</a></li>
+      <li><a href="http://blog.xenuts.com" target="_self">Blog</a></li>
+    </ul>
+  </div>
+#+END_HTML

@@ -1,0 +1,69 @@
+#+AUTHOR: Xiangzeng Zhou
+#+TITLE: Homepage
+#+STARTUP: hidestars
+#+TIMESTAMP: <2015-06-09 13:26:14 by xenuts>
+
+#+INCLUDE: "sidebar.org"
+
+* 
+#+HTML: <div style="font-size:28px; line-height:1.6">
+Xiang-zeng Zhou
+#+HTML: </div>
+
+/Ph.D Candidate/
+
+School of Computer Science, Northwestern Polytechnical University (NPU)
+
+No. 127, West Youyi Road, Xi'an, Shaanxi Province
+
+P. R. China, 710072
+
+You may find a print-friendly pdf version from [[http://xenuts.com/file/cv.pdf][here]].
+
+#+BEGIN_HTML
+<a href="mailto:xenuts@gmail.com"><img src="img/email.png" alt="xenuts@gmail.com" height="25"></a>
+<a href="http://www.linkedin.com/pub/xiangzeng-zhou/92/2a0/543"><img src="img/linkedin.png" alt="LinkedIn" height="25"></a>
+<a href="http://www.researchgate.net/profile/Xiangzeng_Zhou"><img src="img/researchgate.png" alt="ResearchGate" height="25"></a>
+#+END_HTML
+
+* Interests
+#+ATTR_HTML: :border nil :rules nil :frame nil
+| ๑ Visual Object Tracking | ๑ Machine Learning | ๑ Deep Learning | ๑ Neural Networks |
+
+* Education
+#+ATTR_HTML: :border nil :rules nil :frame nil
+| ❒ | Jul. 2010 - Present    | Ph.D. | Computer Science and Technology | Northwestern Polytechnical University (NPU) |
+| ❒ | Sept. 2006 - Jul. 2010 | B.S.  | Computer Science and Technology | Northwestern Polytechnical University (NPU) |
+
+* Skills
+#+ATTR_HTML: :border nil :rules nil :frame nil
+| ✔ C/C++ | ✔ Python | ✔ English | ✔ Matlab | ✔ Emacs | ✔ OpenCV | ✔ Linux/Ubuntu | ✔ LaTeX | ✔ Lisp |
+
+* Activities
+#+ATTR_HTML: :border nil :rules nil :frame nil
+| • | Dec. 5 - 7, 2014         | *Technical Chair* on the 7th International Doctoral Forum         |
+| • | Oct. 28, 2014            | *Oral Presentation* on ICIP 2014                                  |
+| • | May 30, 2013             | *Poster Presentation* on ICASSP 2013                              |
+| • | Mar., 2012 - Sept., 2012 | *Visiting Researcher* at University of East Anglia, Norwich, U.K. |
+| • | Apr., 2011 - Oct., 2011  | *Conference Organizing Committee Member* for APSIPA ASC 2011      |
+| • | Nov. 23 - 25, 2010       | *Oral Presentation* on ICALIP 2010                                |
+| • | Oct. 26 - 29, 2010       | *Invited Demonstration* for UIC/ATC 2010                          |
+
+* Honors/Awards
+#+ATTR_HTML: :border nil :rules nil :frame nil
+| • | 2014 | The Paper of ICIP 2014 was recognized as the Top 10% papers                                         |
+| • | 2014 | Received IEEE Signal Processing Society Travel Grant to Attend ICIP 2014, Paris, France             |
+| • | 2013 | Received IEEE Signal Processing Society Travel Grant to Attend ICASSP 2013, Vancouver, Canada       |
+| • | 2011 | Awarded by Northwestern Polytechnical University Scholarship Fund for Six-month Visiting Researcher |
+| • | 2010 | First Prize Scholarship of Northwestern Polytechnical University                                    |
+| • | 2009 | National Endeavor Scholarship                                                                       |
+| • | 2009 | First Prize of C Programming Contest of Northwestern Polytechnical University                       |
+| • | 2009 | First Prize Scholarship of Northwestern Polytechnical University                                    |
+| • | 2008 | National Endeavor Scholarship                                                                       |
+| • | 2008 | First Prize Scholarship of Northwestern Polytechnical University                                    |
+| • | 2007 | Second Prize of ACM Programming Contest of Northwestern Polytechnical University                    |
+| • | 2007 | First Prize Scholarship of Northwestern Polytechnical University                                    |
+| • | 2007 | Third Prize of Mathematical Modeling Contest of Northwestern Polytechnical University               |
+
+
+
